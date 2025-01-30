@@ -6,8 +6,8 @@ function Home() {
   return (
     <div>
       <h1>Welcome To Home Page!!</h1>
-      <Counter/>
-      <FetchApi/>
+      {/* <Counter/>
+      <FetchApi/> */}
       <SearchUser/>
     </div>
   );
