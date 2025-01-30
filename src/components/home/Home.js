@@ -1,5 +1,5 @@
-import Counter from '../counter/Counter'
-import FetchApi from '../pages/FetchApi';
+// import Counter from '../counter/Counter'
+// import FetchApi from '../pages/FetchApi';
 import SearchUser from '../pages/SearchUser';
 
 function Home() {
